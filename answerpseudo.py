@@ -3,7 +3,7 @@
 import random
 
 def Name():	
-	return (input("Enter you name:"))
+	return (input("Enter your name:"))
 	
 def NameNumberGenerator(x):	
 	return "Name GeneratedNumber %s" %(Name() + str(x))
